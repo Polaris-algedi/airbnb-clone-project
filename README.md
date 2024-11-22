@@ -124,5 +124,3 @@ Identifying the design properties of a mockup is essential for ensuring consiste
 - **Improve Communication:** Provide developers with clear design specifications.
 - **Enhance Usability:** Ensure that design choices, such as color contrasts and typography, meet accessibility standards.
 - **Save Time:** Streamline the development process by reducing guesswork and misinterpretation.
-
-Understanding the design properties allows the team to build an application that remains faithful to the mockup, delivering a cohesive user experience.
