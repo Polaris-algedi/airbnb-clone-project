@@ -125,8 +125,6 @@ Identifying the design properties of a mockup is essential for ensuring consiste
 - **Enhance Usability:** Ensure that design choices, such as color contrasts and typography, meet accessibility standards.
 - **Save Time:** Streamline the development process by reducing guesswork and misinterpretation.
 
-Here’s the **Project Roles and Responsibilities** section for the README:
-
 ---
 
 ## Project Roles and Responsibilities
@@ -204,3 +202,82 @@ A successful project relies on a well-structured team where each member fulfills
   - Foster collaboration and continuous improvement within the team.
   - Track progress and ensure transparency across stakeholders.
 - **Contribution:** Helps the team remain focused, productive, and adaptive to change.
+
+---
+
+## UI Component Patterns
+
+The **Airbnb Clone** project will utilize reusable and modular UI components to ensure consistency and efficiency in the development process. Below are the primary components planned for the application, along with their descriptions and roles.
+
+### 1. **Navbar**
+
+- **Description:**
+  A responsive navigation bar that provides easy access to key sections of the application, such as property listings, account settings, and bookings.
+- **Key Features:**
+  - Logo placement for branding.
+  - Navigation links to primary pages.
+  - A search bar for filtering property listings.
+  - A user profile icon/dropdown for account management.
+- **Purpose:** Ensures smooth navigation across the application and enhances user experience.
+
+### 2. **Property Card**
+
+- **Description:**
+  A visually appealing card component used to display property details in the Property Listing View.
+- **Key Features:**
+  - Property image.
+  - Title and location.
+  - Price per night.
+  - Brief description or ratings.
+  - Clickable link for detailed view.
+- **Purpose:** Provides a quick overview of each property, enabling users to browse listings efficiently.
+
+### 3. **Footer**
+
+- **Description:**
+  A consistent footer section at the bottom of every page, containing useful links and information.
+- **Key Features:**
+  - Copyright information.
+  - Links to pages like "About Us," "Contact," and "Help Center."
+  - Social media icons for external connectivity.
+- **Purpose:** Improves accessibility and provides additional resources for users.
+
+### 4. **Search Filter**
+
+- **Description:**
+  A component that allows users to filter property listings based on criteria like location, price, and amenities.
+- **Key Features:**
+  - Dropdowns, sliders, and checkboxes for filtering options.
+  - A "Search" button to apply filters.
+- **Purpose:** Enhances the browsing experience by narrowing down listings to match user preferences.
+
+### 5. **Booking Form**
+
+- **Description:**
+  A form for collecting booking details such as dates, number of guests, and payment information.
+- **Key Features:**
+  - Date picker for check-in and check-out.
+  - Dropdowns for selecting guests.
+  - A summary of total costs.
+  - A "Book Now" button for submission.
+- **Purpose:** Simplifies the reservation process, guiding users through booking seamlessly.
+
+### 6. **Property Details Section**
+
+- **Description:**
+  A structured layout for displaying detailed property information.
+- **Key Features:**
+  - Image carousel for property photos.
+  - List of amenities.
+  - Location map.
+  - User reviews and ratings.
+- **Purpose:** Provides all necessary information about a property to help users make informed decisions.
+
+### 7. **Button Components**
+
+- **Description:**
+  Versatile button components used throughout the application for actions like "Search," "Book Now," and "Cancel."
+- **Key Features:**
+  - Different styles for primary and secondary actions.
+  - Hover and focus states.
+- **Purpose:** Ensures consistency in interactions across the application.
