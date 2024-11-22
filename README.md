@@ -64,3 +64,65 @@ The **Airbnb Clone** project aims to provide hands-on experience in building a s
 ### Importance of a User-Friendly Design
 
 A user-friendly design is crucial in a booking system to enhance customer satisfaction and ensure engagement. By making navigation intuitive, content clear, and interactions seamless, the platform can reduce user frustration, improve conversion rates, and encourage repeat usage. A thoughtfully designed interface builds trust and aligns with the expectations of modern users.
+
+---
+
+### Design Properties
+
+#### Color Styles
+
+- **Primary Color:** #34967C (Green)
+- **Secondary Color:** #FFA800 (Yellow)
+- **Secondary Color:** #161117 (Black)
+- **Info Background Color:** #34967C (Green)
+- **Main Background Color:** #FFFFFF (White)
+- **Footer Background Color:** #222222 (Black)
+- **Icons Color:** #616161 (Gray)
+- **Icons Color:** #131212 (Black)
+- **Border Color:** #EBEBEB (Gray)
+- **Text Color:** #161117 (Black)
+- **Text Color:** #BEBEBE (Gray)
+- **Footer Text Color:** #CACACA (Gray)
+
+#### Typography
+
+- **Font Family:** Quicksand
+- **Font Weights:**
+  - Listing Page:
+    - Regular: 400
+    - Medium: 500
+    - Bold: 600
+  - Detail Page:
+    - Regular: 500
+    - Medium: 600
+    - Bold: 700
+  - Checkout Page:
+    - Regular: 400
+    - Medium: 600
+    - Bold: 700
+- **Font Sizes:**
+  - Listing Page:
+    - Heading: 22px, 26px, 22px
+    - Subheading: 17px, 20px, 17px
+    - Body Text: 20px, 20px, 20px
+  - Detail Page:
+    - Heading: 50px, 39px, 22px
+    - Subheading: 31px, 20px, 22px
+    - Body Text: 23px, 16px, 18px
+  - Checkout Page:
+    - Heading: 30px, 21px, 24px
+    - Subheading: 29px, 20px, 21px
+    - Body Text: 24px, 17px, 17px
+
+---
+
+### Importance of Identifying Design Properties
+
+Identifying the design properties of a mockup is essential for ensuring consistency and clarity during development. These properties serve as a blueprint for translating the visual design into code. They help:
+
+- **Maintain Consistency:** Ensure uniform styles across the application.
+- **Improve Communication:** Provide developers with clear design specifications.
+- **Enhance Usability:** Ensure that design choices, such as color contrasts and typography, meet accessibility standards.
+- **Save Time:** Streamline the development process by reducing guesswork and misinterpretation.
+
+Understanding the design properties allows the team to build an application that remains faithful to the mockup, delivering a cohesive user experience.
