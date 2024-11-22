@@ -124,3 +124,83 @@ Identifying the design properties of a mockup is essential for ensuring consiste
 - **Improve Communication:** Provide developers with clear design specifications.
 - **Enhance Usability:** Ensure that design choices, such as color contrasts and typography, meet accessibility standards.
 - **Save Time:** Streamline the development process by reducing guesswork and misinterpretation.
+
+Here’s the **Project Roles and Responsibilities** section for the README:
+
+---
+
+## Project Roles and Responsibilities
+
+A successful project relies on a well-structured team where each member fulfills specific roles and responsibilities. Below are the key roles for the **Airbnb Clone** project and their contributions to its success.
+
+### 1. **Project Manager**
+
+- **Responsibilities:**
+  - Define project scope, goals, and deliverables.
+  - Create and manage timelines and milestones.
+  - Facilitate communication among team members.
+  - Monitor progress and address roadblocks.
+- **Contribution:** Ensures the project stays on track, meeting deadlines while maintaining quality and team alignment.
+
+### 2. **Frontend Developers**
+
+- **Responsibilities:**
+  - Develop user-facing features using React and TypeScript.
+  - Implement designs into responsive and interactive web pages using TailwindCSS.
+  - Integrate APIs for data fetching and dynamic content rendering.
+  - Optimize performance and accessibility.
+- **Contribution:** Build and maintain the interface users interact with, ensuring a seamless experience.
+
+### 3. **Backend Developers**
+
+- **Responsibilities:**
+  - Design and implement APIs and server-side logic using Python and Django.
+  - Set up and manage the database (MySQL).
+  - Ensure data security and backend performance optimization.
+  - Integrate APIs with the frontend and support deployment needs.
+- **Contribution:** Provide the foundation for functionality by managing data flow, storage, and server-side processes.
+
+### 4. **Designers**
+
+- **Responsibilities:**
+  - Create wireframes, mockups, and prototypes in tools like Figma.
+  - Define color palettes, typography, and other design elements.
+  - Ensure the UI is visually appealing and adheres to UX best practices.
+  - Collaborate with developers to implement designs accurately.
+- **Contribution:** Shape the user experience and visual identity of the application.
+
+### 5. **QA/Testers**
+
+- **Responsibilities:**
+  - Write and execute test cases to identify bugs and issues.
+  - Perform functional, regression, and performance testing.
+  - Verify that the application meets requirements and specifications.
+  - Collaborate with developers to resolve issues efficiently.
+- **Contribution:** Ensure the final product is stable, functional, and free from major defects.
+
+### 6. **DevOps Engineers**
+
+- **Responsibilities:**
+  - Set up and maintain development, staging, and production environments.
+  - Automate CI/CD pipelines for efficient deployments.
+  - Monitor system performance and troubleshoot issues.
+  - Implement security measures and ensure scalability.
+- **Contribution:** Support a smooth and reliable deployment process, ensuring system stability.
+
+### 7. **Product Owner**
+
+- **Responsibilities:**
+  - Define and prioritize the product backlog.
+  - Clearly communicate project vision and requirements to the team.
+  - Ensure that the delivered product meets user needs and business goals.
+  - Act as a liaison between stakeholders and the team.
+- **Contribution:** Aligns the project with business objectives, ensuring a valuable end product.
+
+### 8. **Scrum Master**
+
+- **Responsibilities:**
+  - Facilitate daily stand-ups, sprint planning, and retrospectives.
+  - Remove impediments and ensure the team adheres to Agile principles.
+  - Foster collaboration and continuous improvement within the team.
+  - Track progress and ensure transparency across stakeholders.
+- **Contribution:** Helps the team remain focused, productive, and adaptive to change.
